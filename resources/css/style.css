@@ -3,11 +3,28 @@ body {
   color: white;
   font-family: Verdana;
   text-align: center;
-  font-size: 25;
 }
 
 a {
   text-decoration: underline;
   color: aquamarine;
   font-size: 16px;
+}
+
+#h1 {
+  font-size: 50;
+}
+
+#h2 {
+  font-size: 42;
+  font-weight: 300;
+}
+
+#gray {
+  font-size: 21;
+  color: gray;
+}
+
+img {
+  width: 100%;
 }
